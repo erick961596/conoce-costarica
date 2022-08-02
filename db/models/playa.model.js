@@ -1,6 +1,5 @@
 const { Model, DataTypes, Sequelize } = require('sequelize');
 
-
 const PLAYA_TABLE = 'playas';
 const PLAYASCHEMA = {
     id:{
